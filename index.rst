@@ -24,6 +24,7 @@ Contents:
    content/NovelScan
    content/CellInfo
    content/FuncScan
+   content/SpatialScan
    content/about
 
 
