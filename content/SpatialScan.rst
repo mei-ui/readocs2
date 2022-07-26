@@ -1,4 +1,4 @@
-FuncScan
+SpatialScan
 ============
 `Combining Spatial Transcriptome with Single-Cell Sequencing.`
 
