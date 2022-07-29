@@ -2,7 +2,7 @@
 InfoScan
 =========
 
-A software to :red:`I`\ dentify :red:`N`\ ovel transcripts :red:`F`\ r\ :red:`O`\ m :red:`S`\ :red:`C`\ RNA-Seq data and sp:red:`A`\ tial tra:red:`N`\ scriptome data.
+A software to :red:`I`\ dentify :red:`N`\ ovel transcripts :red:`F`\ r\ :red:`O`\ m :red:`S`\ :red:`C`\ RNA-Seq data and sp :red:`A`\ tial tra :red:`N`\ scriptome data.
 =======================================================================================================================================================================================
 
 .. image:: images/main.png
