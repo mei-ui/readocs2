@@ -127,7 +127,7 @@ Then, upon executed the ./InfoScan, the following window appears:
 
 For Mac users, after decompressing the file, open the ``Command Line`` file, cd to the ``InfoScan.app directory``, and input ``./InfoScan.app/Content/Macos/InfoScan`` at Command file to run.
 
-.. note:: Unlike Linux, you should place the downloaded genome file and/or the example data in the same directory of ``InfoScan`` flie mentioned above. (like ``InfoScan/genome`` and/or ``InfoScan/data``)
+.. note:: For Mac, you should place the downloaded genome file and/or the example data in the same directory of ``InfoScan`` flie mentioned above. (like ``InfoScan/genome`` and/or ``InfoScan/data``)
 
 Configuration
 ---------------------------
