@@ -2,12 +2,12 @@
 InfoScan
 =========
 
-A pipeline to :red:`I`\ dentify :red:`N`\ ovel transcripts :red:`F`\ r\ :red:`O`\ m :red:`S`\ cRNA-Seq data and analyze their :red:`C`\ haracters :red:`A`\ nd functio\ :red:`N`\ s
+A software to :red:`I`\ dentify :red:`N`\ ovel transcripts :red:`F`\ r\ :red:`O`\ m :red:`S`\ :red:`C`\ RNA-Seq data and sp:red:`A`\ tial tra:red:`N`\ scriptome data.
 =======================================================================================================================================================================================
 
 .. image:: images/main.png
 
-**InfoScan** is a software used to identify novel transcripts, including mRNAs and lncRNAs, from single-cell RNA-Seq data and explore their characteristics in different cell populations; In addition, we can obtain new long non-coding RNA specific to the cell population, and study its function through co-expression analysis and functional enrichment analysis.
+      In this study, a multi-platform visualization software **InfoScan** was developed, which can accurately identify existing and new transcripts in single-cell RNA-Seq data, and evaluate their coding ability by machine learning method. In addition, InfoScan can also integrate the information of the spatial transcriptome to elucidate the spatiotemporal specificity of these transcripts. InfoScan is dedicated to mining the cell-specific profile of these novel transcripts, and performs grouping comparisons and cell type inference based on mRNA and long non-coding RNA, respectively. In addition, we can also predict the function of novel transcripts in cells based on co-expression analysis.
 
 The flow chart below depicts the different tool modules that are currently available.
 
