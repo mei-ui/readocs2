@@ -90,13 +90,13 @@ Once the InfoScan mian program and the Genome annotation are downloaded and unzi
     .
     ├── AppRun -> InfoScan
     ├── CPAT-3.0.0
+    ├── genome
     ├── default.desktop
-    ├── images
     ├── InfoScan
     ├── InfoScan.sh
     ├── lib
     ├── libexec
-    ├── libstdc++.so.6
+    ├── libXss.so.1
     ├── pack.sh
     ├── plugins
     ├── qss
@@ -119,15 +119,15 @@ Then, upon executed the ./InfoScan, the following window appears:
 
 .. code:: bash
 
-	$ ./InfoScan
+	$ ./InfoScan.sh
 
 .. image:: /images/introduction.png
 
 * *Mac OS*
 
-For Mac users, after decompressing the file, open the ``InfoScan`` file, enter the ``InfoScan.app/Contents/Macos directory``, and click ``InfoScan`` flie to run.
+For Mac users, after decompressing the file, open the ``Command Line`` file, cd to the ``InfoScan.app directory``, and input ``./InfoScan.app/Content/Macos/InfoScan`` at Command file to run.
 
-.. note:: Unlike Linux, you should place the downloaded genome file and/or the example data in the same directory of ``InfoScan`` flie mentioned above. (like ``InfoScan.app/Contents/Macos/genome`` and/or ``InfoScan.app/Contents/Macos/data``)
+.. note:: Unlike Linux, you should place the downloaded genome file and/or the example data in the same directory of ``InfoScan`` flie mentioned above. (like ``InfoScan/genome`` and/or ``InfoScan/data``)
 
 Configuration
 ---------------------------
