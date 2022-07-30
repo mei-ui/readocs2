@@ -11,7 +11,7 @@ In this study, a multi-platform visualization software **InfoScan** was develope
 
 The flow chart below depicts the different tool modules that are currently available.
 
-.. image:: images/start_workflow.png
+.. image:: images/start_workflow2.jpg
 
 Contents:
 ---------
