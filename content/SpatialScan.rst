@@ -3,7 +3,7 @@ SpatialScan
 `Combining Spatial Transcriptome with Single-Cell Sequencing.`
 
 
-.. image:: /images/SpatialScan.png
+.. image:: /images/SpatialScan2.png
 
 
 .. contents:: 
