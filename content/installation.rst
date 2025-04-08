@@ -15,7 +15,7 @@ If you're here for the first time, download InfoScan first, and decompress it in
 
 `Download InfoScan v.0.1 for Linux x64 <https://mega.nz/file/wDdwyCZY#KasVu7WPJfKLDpSh_nnGfrBk5ho14QWnToQDHgraqaU>`_
 
-`Download InfoScan v.0.1 for Mac OSX <https://mega.nz/file/ROsBkYiY#IFZ56zYR-3j7dCuz-34UF3r-LU7GZx-TkHdURTJ-5zI>`_
+`Download InfoScan v.0.1 for Mac OSX <https://drive.google.com/file/d/1eggozFkEbSA7Qn6G24NRvJ037vwSojf_/view?usp=sharing>`_
 
 Windows support is currently a work-in-progress. Stay tuned and visit back for a Windows compatible executable.
 
