@@ -23,13 +23,9 @@ author = 'Zilch'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
-build:
-  os: ubuntu-22.04
-  tools:
-    python: "3.10"
-  # 指定构建命令（示例为Sphinx）
-  commands:
-    - sphinx-build -b html ./docs $READTHEDOCS_OUTPUT/html
+import os
+output_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build')  # 默认兼容本地构建
+html_dir = os.path.join(output_dir, 'html')
 
 # -- General configuration ---------------------------------------------------
 
